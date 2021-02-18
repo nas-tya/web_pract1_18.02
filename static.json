@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+        "X-Author" : "190611",
+        "Access-Control-Allow-Origin" : "*"
+      }
+    }
+}
